@@ -5,26 +5,47 @@
 This repository contains a collection of Python Fundamentals Case Studies designed to strengthen core programming concepts through practical, real-world scenarios. Each case study focuses on solving a specific problem using Python syntax, data structures, control statements, loops, and functions.
 
 🚀 Case Studies Included
+
 🎓 Student Registration System
+
 📚 Library Fine Calculator
+
 📧 Email Username Generator
+
 🆔 Student ID Card Generator
+
 📦 Tuple Packing & Unpacking
+
 🛒 Online Order Summary
+
 🛍️ Shopping Cart System
+
 👨‍🎓 Student Data Management System
+
 📖 Student Course Registration using Set
+
 🏦 Bank Loan Eligibility System
+
 🎓 Scholarship Eligibility Checker
+
 🔐 Password Verification System
+
 📊 Student Marks Filter System
+
 🔤 Text Analyzer System
+
 🚫 Restricted Word Detection System
+
 👥 Employee Attendance Count System
+
 📈 Student Performance Management System
+
 💰 Employee Salary Analysis
+
 ➕ Arithmetic Calculator using Functions
+
 📝 Student Marks Analysis using Functions
+
 ✨ Key Concepts Covered
 
 Variables and Data Types
